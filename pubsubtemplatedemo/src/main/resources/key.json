@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "iconic-ruler-325615",
-  "private_key_id": "a6c7bbda2fc59636783b9c442f75ce2c9ef2710d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcGXWArVw+aqT8\nOwqvNCCY2SMN8rHH/MInIwA+CqtZ54tnhEijUtSAURnkL+Y7Y7OINIEchabqFy8t\npeOnigHUx9qGE7Fiub/FseEPP4cA+Ql5AioE25OsJrhoNSz2ZXCUP88X1Ew08Tcz\naw8vx058lVepfSmMdWVUZw1il1eyO7ONEwPQ+zwsZY8A2ANuISvzzw6ccr5Pw/Ia\nJDp2CngEnab5is2eM0AIepOphVcMjCkchYIhCLrqifAU2+jIhSi1nxtG5Gkdi2Zy\nnMmAXxLM2Z2OdwqElP/KoprAk9x74EOGAQi/sFzzbNnEzjMfGA+TEAoxWiCjfM0e\nckSLV9V1AgMBAAECggEAX8Lr7tp+geGgeuWtVmFVtWrz54Oqehqs1p5R4qx9tRYa\n/yT8/aJyNooSu8djYn+UgzRk4GX+I2eG7VN541EWTt/NYfx7dzreB0PHafz33iJ8\nTpv0cDyg2YvXO++26lVkT/wbPIDvzzEMFWEFMIKE0YugomuEgkopljloB3dVfoPQ\nl0DZZsb43pqOKxAnd6hf5W4r5ErQ2ZyAupSDH2PQMQZYZpYi+YbBEntbMZVoompD\nJf2SloRbXzlz7l7gVLXU8Ys1PMyT3NZV4yGG//gwQTp0juZAqQk6r2FNZTd5dNjc\nepj3eTZDJVjEY/JtVfLvQCltAtcrpZajo4W9PIzHWQKBgQDyYMwUxVJYIqZZbImz\nKUlHmoc9hOmzf7vcjiEZh3kz+9IKJmmVpow6yBVmsmXuz46/52eeQNvO0Ghflrl1\nHQwpSz2c+Ozbx4iFNyfSuAGzxDnhAwbJxwYocKiL1UAy29IIbRjSyzcPND4Glz43\nxgqWq7Cej0DXUmUeC3su7XwF6wKBgQDoeCDuzCnj+FWspkuGjUeVN89NM0Voyn0s\nO9O+xE7wkSGS1TCcZhpPqx9UUQ8w3P0S31DqiV4D5cy2JfHpBD8ArZbQ4nKUz5ut\n/YgWB+H5lkXwpB7vB1cuCbsrSQON7x0IYE4zYroDpUFN2PtdnkDDFqm67MbKrwAU\nHI8vBZvaHwKBgDNcz+KW7hw/O4E3vvZ4iU7jMEWZJO0k5GqYs+r1Cno5owkDmtxb\nrtvGCsL4iyFQWq/QGeUvWWU6ROP8zNBEl48ooqXhGlB4uDWCuq2s0K+HpbxJJ+ca\nhfOL7Cu1xSUB8EBY3inNZp2SNJKw+j5XeWb0ezkeol7+1u7HABOxv9aBAoGAL7LO\nVxEPG1aOBbHNV1tPr79WyqlVeY3qpxPTe5X9+IBe2ijiI4UTqvsan4tOSaFeT+wA\nR09OOhCBs3IPs9cKMlJr2opMJlp+v/GAZbzSUgrSaPDT5Ammiqy2ecgucYX5eAmC\noiqErlDPGHEICop5EU5qHw+MLnQ/2OCPRH+rHdMCgYEAoTFg44kNHRBkZw8UGsQ3\nc+pU7D3+ojbuhNndKoVuGm5BSaZ9Qp+w4FhM4uhrnj7cgnqhQCD5hCcUXlPcS1Cv\nv4GN7uBCaIViEFnRoGLTa5jjoTBP8cWjn670Kc5nMS26abxXwJ6bPi2QngKysiGn\n3MzSzIea5pnlSE3f2tGCyVA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "svc-pub-sub-admin@iconic-ruler-325615.iam.gserviceaccount.com",
-  "client_id": "104886681132717773146",
+  "project_id": "[GCP-PROJECT-ID]",
+  "private_key_id": "[GCP-PRIVATE-KEY-ID]",
+  "private_key": "[GCP-PRIVATE-KEY]",
+  "client_email": "[CLIENT-EMAIL]",
+  "client_id": "[CLIENT-ID]",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/svc-pub-sub-admin%40iconic-ruler-325615.iam.gserviceaccount.com"
+  "auth_provider_x509_cert_url": "[AUTH-PROVIDER-X509-CERT-URL]",
+  "client_x509_cert_url": "[CLIENT-X509-CERT-URL]"
 }
